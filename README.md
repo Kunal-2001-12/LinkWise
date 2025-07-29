@@ -72,7 +72,7 @@
    - By default, the app runs on [http://localhost:3004](http://localhost:3004)
    - If you see `EADDRINUSE` errors, it means the port is already in use. Either stop the process using that port, or run on a different port:
      ```bash
-     npm run dev -- -p 3005
+     npm run dev -- -p 3004
      ```
 5. **Open your browser:**
    - Visit [http://localhost:3004](http://localhost:3004) (or your chosen port)
